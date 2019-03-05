@@ -1,0 +1,6 @@
+D:\Demos\CoreArchitecture\CoreDAL\obj\Debug\netcoreapp2.1\CoreDAL.csproj.CoreCompileInputs.cache
+D:\Demos\CoreArchitecture\CoreDAL\obj\Debug\netcoreapp2.1\CoreDAL.AssemblyInfoInputs.cache
+D:\Demos\CoreArchitecture\CoreDAL\obj\Debug\netcoreapp2.1\CoreDAL.AssemblyInfo.cs
+D:\Demos\CoreArchitecture\CoreDAL\bin\Debug\netcoreapp2.1\CoreDAL.deps.json
+D:\Demos\CoreArchitecture\CoreDAL\bin\Debug\netcoreapp2.1\CoreDAL.dll
+D:\Demos\CoreArchitecture\CoreDAL\obj\Debug\netcoreapp2.1\CoreDAL.csprojAssemblyReference.cache

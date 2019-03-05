@@ -1,0 +1,8 @@
+D:\Demos\CoreArchitecture\CoreModels\bin\Debug\netcoreapp2.1\CoreModels.deps.json
+D:\Demos\CoreArchitecture\CoreModels\bin\Debug\netcoreapp2.1\CoreModels.dll
+D:\Demos\CoreArchitecture\CoreModels\bin\Debug\netcoreapp2.1\CoreModels.pdb
+D:\Demos\CoreArchitecture\CoreModels\obj\Debug\netcoreapp2.1\CoreModels.csproj.CoreCompileInputs.cache
+D:\Demos\CoreArchitecture\CoreModels\obj\Debug\netcoreapp2.1\CoreModels.AssemblyInfoInputs.cache
+D:\Demos\CoreArchitecture\CoreModels\obj\Debug\netcoreapp2.1\CoreModels.AssemblyInfo.cs
+D:\Demos\CoreArchitecture\CoreModels\obj\Debug\netcoreapp2.1\CoreModels.dll
+D:\Demos\CoreArchitecture\CoreModels\obj\Debug\netcoreapp2.1\CoreModels.pdb

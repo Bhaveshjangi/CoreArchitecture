@@ -1,0 +1,6 @@
+D:\Demos\CoreArchitecture\CoreArchitecture\obj\Debug\netcoreapp2.1\CoreArchitecture.csprojAssemblyReference.cache
+D:\Demos\CoreArchitecture\CoreArchitecture\obj\Debug\netcoreapp2.1\CoreArchitecture.csproj.CoreCompileInputs.cache
+D:\Demos\CoreArchitecture\CoreArchitecture\obj\Debug\netcoreapp2.1\CoreArchitecture.RazorAssemblyInfo.cache
+D:\Demos\CoreArchitecture\CoreArchitecture\obj\Debug\netcoreapp2.1\CoreArchitecture.RazorAssemblyInfo.cs
+D:\Demos\CoreArchitecture\CoreArchitecture\obj\Debug\netcoreapp2.1\CoreArchitecture.AssemblyInfoInputs.cache
+D:\Demos\CoreArchitecture\CoreArchitecture\obj\Debug\netcoreapp2.1\CoreArchitecture.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+D:\Demos\CoreArchitecture\CoreBLL\obj\Debug\netcoreapp2.1\CoreBLL.csprojAssemblyReference.cache
+D:\Demos\CoreArchitecture\CoreBLL\obj\Debug\netcoreapp2.1\CoreBLL.csproj.CoreCompileInputs.cache
+D:\Demos\CoreArchitecture\CoreBLL\obj\Debug\netcoreapp2.1\CoreBLL.AssemblyInfoInputs.cache
+D:\Demos\CoreArchitecture\CoreBLL\obj\Debug\netcoreapp2.1\CoreBLL.AssemblyInfo.cs
